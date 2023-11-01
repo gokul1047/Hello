@@ -24,7 +24,7 @@ Follow the steps below to run the chatbot application:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/pradeepsivakumar03/ibm_AIPhase2.git
+git clonehttps://github.com/gokul1047/Hello.git
 ```
 
 #### Step 2: Install Required Libraries
